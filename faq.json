@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial Intelligence (AI) is a branch of computer science that enables machines to learn, think, and make decisions like humans."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine Learning is a subset of AI that allows computers to learn from data and improve automatically without being explicitly programmed."
+    },
+    {
+        "question": "What is deep learning?",
+        "answer": "Deep Learning is a part of machine learning that uses neural networks to learn patterns from large amounts of data."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "Natural Language Processing (NLP) is a field of AI that helps computers understand and process human language."
+    },
+    {
+        "question": "Which programming language is used for AI?",
+        "answer": "Python is the most commonly used programming language for AI because of its powerful libraries like TensorFlow, PyTorch, and Scikit-learn."
+    },
+    {
+        "question": "How can I learn artificial intelligence?",
+        "answer": "To learn AI, start with Python, mathematics, machine learning algorithms, deep learning, and practice by building projects."
+    }
+]
