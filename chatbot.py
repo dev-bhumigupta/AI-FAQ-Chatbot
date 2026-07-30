@@ -49,7 +49,7 @@ def get_answer(user_question):
 
 
     if confidence < 0.3:
-        return "Sorry Bhumi, I could not understand your question."
+        return "Sorry, I couldn't understand your question. Please try asking it in a different way."
 
     return answers[best_match]
 
